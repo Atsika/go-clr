@@ -8,17 +8,17 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## Changed
 
-- Merged [Pull 3](https://github.com/Ne0nd0g/go-clr/pull/3) from @mec07 to return errors instead of exiting the program
+- Merged [Pull 3](https://github.com/Atsika/go-clr/pull/3) from @mec07 to return errors instead of exiting the program
 
 ### Fixed
 
-- [Issue 4](https://github.com/Ne0nd0g/go-clr/issues/4) - Application's Without A Console Will Not Return Output
+- [Issue 4](https://github.com/Atsika/go-clr/issues/4) - Application's Without A Console Will Not Return Output
 
 ## 1.0.2 2022-04-02
 
 ### Fixed
 
-- Merged [Pull 2](https://github.com/Ne0nd0g/go-clr/pull/2) from @audibleblink that fixed an error when attempting to 
+- Merged [Pull 2](https://github.com/Atsika/go-clr/pull/2) from @audibleblink that fixed an error when attempting to 
 load correctly targeted assemblies through 
 
 ### Changed
